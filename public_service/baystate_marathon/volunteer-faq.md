@@ -104,4 +104,5 @@ the end of the race.
 - [Race day information](https://www.baystatemarathon.com/race-day-info)
 - [Course description and map](https://www.baystatemarathon.com/course-map-description)
 - [Larger map](https://s3.us-east-2.amazonaws.com/sidearm.nextgen.sites/uml.sidearmsports.com/documents/2022/10/15/baystate-marathon-maps.pdf)
+- [Water Stop locations - Google Map] (https://maps.app.goo.gl/yjpZFd9NWA2VWmK5A)
 - [Garmin course for Marathon route](https://connect.garmin.com/modern/course/128993260)
