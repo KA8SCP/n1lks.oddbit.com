@@ -47,14 +47,22 @@ you have sufficient insulation.
 
 ## Where can I park?
 
+### Blue parking placards
+
+Those assigned to the Tsongas Circle area can pickup BLUE "2024 Official Race
+Vehicle Baystate Marathon" placards at the Tsongas Family Info table before you
+park, or pick them up from Terry KA8SCP at the Rourke Bridge Unified Command Center
+at Bowlero Lowell, 647 Pawtucket Blvd, Lowell after 6:30 AM.
+
 ### If you are stationed at Tsongas
 
 Those at the Tsongas need to arrive early so you can navigate the traffic
 barriers and get in to the volunteer parking lots. If for some reason you
 cannot get to the volunteer lot and end up paying at one of the spectator lots,
 keep your receipt and I'll reimburse you after the race. If you printed out the
-orange dashboard placard I've emailed or you picked one up at the Family Info
-table, you should be parking for FREE at the Lot B or Lot C.
+blue dashboard placard I've emailed or you picked one up at the Family Info
+table, you should be parking for FREE at the Lot B or Lot C (prefered). Google Maps
+link showing the lots is found at https://bit.ly/4eYMkz9
 
 ### If you are stationed along the course
 
@@ -62,7 +70,7 @@ Parking will likely be available in the immediate vicinity of each water stop.
 
 ## Where can I pick up volunteer vests?
 
-- **Tsongas Circle locations** – The Family Info table should have orange
+- **Tsongas Circle locations** – The Family Info table should have blue
 volunteer vests. Feel free to bring your own if you have one. Please return
 them to him at the Family Info table when you are clearing from your
 participation. Most of you at the Tsongas Circle area will be winding down
